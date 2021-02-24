@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/My Application.iml" filepath="$PROJECT_DIR$/My Application.iml" group="My Application" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="My Application/app" />
-      <module fileurl="file://$PROJECT_DIR$/transfromplugin/transfromplugin.iml" filepath="$PROJECT_DIR$/transfromplugin/transfromplugin.iml" group="My Application/transfromplugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfromplugin/My_Application.transfromplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/transfromplugin/My_Application.transfromplugin.iml" />
     </modules>
   </component>
 </project>
