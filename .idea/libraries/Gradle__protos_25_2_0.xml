@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: protos-25.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.0/cd4e7b2fc61b1d1a9147ea4f2589b2fa920e9e76/protos-25.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.0/bd45fede698bd5459328b20e2d48cb2aedfcb86a/protos-25.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
