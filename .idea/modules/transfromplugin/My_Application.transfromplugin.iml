@@ -22,6 +22,7 @@
     <content url="file://$MODULE_DIR$/../../../transfromplugin">
       <sourceFolder url="file://$MODULE_DIR$/../../../transfromplugin/src/main/groovy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../transfromplugin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../transfromplugin/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../../transfromplugin/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../transfromplugin/build" />
     </content>

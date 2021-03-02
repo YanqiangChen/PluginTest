@@ -5,14 +5,14 @@ buildscript {
     repositories {
         google()
         jcenter()
-        maven{
-            url uri('./repo')
-        }
+//        maven{
+//            url uri('./repo')
+//        }
 
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.6.1'
-        classpath 'com.test.myplugin:transfromplugin:1.0.0'
+//        classpath 'com.test.myplugin:transfromplugin:1.0.0'
         
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -24,9 +24,9 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven{
-            url uri('./repo')
-        }
+//        maven{
+//            url uri('./repo')
+//        }
     }
 }
 
